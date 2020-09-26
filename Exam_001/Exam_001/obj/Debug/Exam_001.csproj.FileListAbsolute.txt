@@ -1,0 +1,8 @@
+D:\C#\Exam_001\Exam_001\bin\Debug\Exam_001.exe.config
+D:\C#\Exam_001\Exam_001\obj\Debug\Exam_001.Form1.resources
+D:\C#\Exam_001\Exam_001\obj\Debug\Exam_001.Properties.Resources.resources
+D:\C#\Exam_001\Exam_001\obj\Debug\Exam_001.csproj.GenerateResource.Cache
+D:\C#\Exam_001\Exam_001\bin\Debug\Exam_001.exe
+D:\C#\Exam_001\Exam_001\bin\Debug\Exam_001.pdb
+D:\C#\Exam_001\Exam_001\obj\Debug\Exam_001.exe
+D:\C#\Exam_001\Exam_001\obj\Debug\Exam_001.pdb
